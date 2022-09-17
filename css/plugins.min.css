@@ -8601,6 +8601,7 @@ button.close {
   margin: -1rem -1rem -1rem auto;
 }
 .modal-title {
+  color: white !important;
   margin-bottom: 0;
   line-height: 1.5;
 }
@@ -11735,7 +11736,7 @@ button.bg-dark:hover {
   color: #fff !important;
 }
 .text-primary {
-  color: #007bff !important;
+  color: #ffd700 !important;
 }
 a.text-primary:focus,
 a.text-primary:hover {
