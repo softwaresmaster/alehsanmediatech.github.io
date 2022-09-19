@@ -503,6 +503,14 @@ hr.ridge {
   line-height: 2;
   margin-bottom: 3px;
 }
+.nav-image {
+  height: 50px;
+  width: 50px;
+}
+.f-image {
+  height: 70px;
+  width: 70px;
+}
 .small-crumb > :nth-child(n + 2):not(.uk-first-column)::before {
   margin: 0 10px;
 }
@@ -927,7 +935,7 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 0 0 25px;
+  margin: 0 0 0px;
   padding: 0;
   letter-spacing: 0;
   font-weight: 400;
@@ -974,8 +982,8 @@ h6 {
   line-height: 26px;
 }
 .text-extra-large {
-  font-size: 20px;
-  line-height: 26px;
+  padding-left: 20px;
+  font-size: 50px;
 }
 .title-extra-small {
   font-size: 35px;
