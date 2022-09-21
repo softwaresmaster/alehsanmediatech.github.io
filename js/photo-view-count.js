@@ -3,8 +3,9 @@ var views = 0;
 
 var contributeID = "103140580685995586585"; //SAH new id
 var mapLink = "https://www.google.com/maps/contrib/";
-//mircom
-// 112229672882478638212
+//
+// mircom akram 112229672882478638212
+// betajb30 old id 103140580685995586585
 
 var photo_view = photo_view_match(
   '(\\d+),\\\\"(C[\\w-]{34,40})\\\\",(\\d+)',

@@ -793,7 +793,7 @@ hr.ridge {
   color: #ea4c89 !important;
 }
 .behance {
-  color: #053eff !important;
+  color: #fff !important;
 }
 .fa-twitch {
   color: #6441a5 !important;
@@ -999,7 +999,12 @@ h6 {
   line-height: 26px;
 }
 .text-extra-large {
-  padding-left: 20px;
+  font-size: 50px;
+  line-height: 28px;
+  padding-bottom: 25px;
+}
+.text-extra-large-nav {
+  padding-left: 15px;
   font-size: 50px;
 }
 .title-extra-small {
