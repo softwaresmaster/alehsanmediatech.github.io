@@ -5738,8 +5738,8 @@ blockquote p {
 }
 
 .brand-image {
-  height: 200px;
-  width: 200px;
+  height: 150px;
+  width: 150px;
 }
 /*** Testimonial ***/
 .testimonial-carousel::before {
@@ -5821,4 +5821,7 @@ blockquote p {
 .testimonial-carousel .owl-dot.active {
   background: var(--primary);
   border-color: var(--primary);
+}
+.a {
+  text-decoration: underline !important;
 }
