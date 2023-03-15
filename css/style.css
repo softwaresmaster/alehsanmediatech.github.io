@@ -428,14 +428,14 @@ hr.ridge {
   right: 40px;
   background-color: #25d366;
   color: #fff;
-  border-radius: 50px;
+  border-radius: 50%;
   text-align: center;
-  font-size: 30px;
+  font-size: 2em;
   box-shadow: 2px 2px 3px #999;
   z-index: 100;
 }
 .my-float {
-  margin-top: 16px;
+  margin-top: 13px;
 }
 .float-left {
   float: left !important;
@@ -525,8 +525,8 @@ hr.ridge {
   width: 50px;
 }
 .f-image {
-  height: 70px;
-  width: 70px;
+  height: 40px;
+  width: auto;
 }
 .small-crumb > :nth-child(n + 2):not(.uk-first-column)::before {
   margin: 0 10px;
@@ -1030,6 +1030,11 @@ h6 {
   line-height: 28px;
   padding-bottom: 25px;
 }
+.text-extra-large-2 {
+  font-size: 40px;
+  line-height: 35px;
+  padding-bottom: 25px;
+}
 .text-extra-large-nav {
   padding-left: 15px;
   font-size: 50px;
@@ -1119,9 +1124,12 @@ h6 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font: {
-    size: 20vw;
+    size: 18vw;
     family: $font;
   }
+}
+.text-weight-50 {
+  font-weight: 50;
 }
 .text-weight-100 {
   font-weight: 100;
@@ -5851,4 +5859,9 @@ blockquote p {
 }
 .a {
   text-decoration: underline !important;
+}
+
+.border-top-1px {
+  border-top: 1rem;
+  color: white !important;
 }
