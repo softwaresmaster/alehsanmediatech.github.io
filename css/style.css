@@ -575,6 +575,18 @@ hr.ridge {
 .uk-accordion-title:hover {
   color: #000;
 }
+.fa-magnifying-glass-chart {
+  color: rgb(255, 255, 255) !important;
+}
+.fa-copyright {
+  color: rgb(255, 255, 255) !important;
+}
+.fa-chart-simple {
+  color: rgb(255, 255, 255) !important;
+}
+.fa-rectangle-ad {
+  color: rgb(255, 255, 255) !important;
+}
 .fa-amazon {
   color: #f90 !important;
 }
@@ -675,6 +687,15 @@ hr.ridge {
 .fa-lastfm-square {
   color: #d51007 !important;
 }
+.fa-mobile {
+  color: silver !important;
+}
+.fa-globe {
+  color: rgb(255, 255, 255) !important;
+}
+.fa-app-store-ios {
+  color: rgb(226, 226, 226) !important;
+}
 .linkedin {
   color: #0077b5 !important;
 }
@@ -760,6 +781,12 @@ hr.ridge {
 }
 .tumblr {
   color: #35465c !important;
+}
+
+.i-size-4 {
+  height: 25px !important;
+  width: auto !important;
+  color: #fff !important;
 }
 .fa-vimeo {
   color: #1ab7ea !important;
