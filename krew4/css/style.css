@@ -236,7 +236,6 @@ strong {
   background-color: var(--section-bg-color);
   border-radius: var(--border-radius-large);
   border-bottom: 0;
-  padding: 15px;
 }
 
 .nav-tabs .nav-link {
@@ -912,8 +911,7 @@ strong {
   overflow: hidden;
   padding-bottom: 30px;
 }
-
-.site-footer-top {
+.grid-cc .site-footer-top {
   display: flex;
   flex-direction: row;
   background-color: var(--secondary-color);
@@ -930,7 +928,7 @@ strong {
   display: inline-block;
 }
 .footer-logo-2 {
-  height: 200px !important;
+  height: 150px !important;
   width: auto;
   display: inline-block;
 }
@@ -1125,6 +1123,9 @@ strong {
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
+}
+.bg-grey {
+  background-color: #606060 !important;
 }
 .navbar-logo {
   height: 95px !important;
