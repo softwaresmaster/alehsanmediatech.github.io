@@ -41,6 +41,59 @@
       integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="
       crossorigin="anonymous"
       referrerpolicy="no-referrer" />
+      <style>
+        
+@keyframes rotate {
+	100% {
+		transform: rotate(1turn);
+	}
+}
+.rainbow-border {
+	position: relative;
+	z-index: 0;
+	margin: 20px;
+	border-radius: 10px;
+	overflow: hidden;
+	padding: 2rem;
+	
+	&::before {
+		content: '';
+		position: absolute;
+		z-index: -2;
+		left: -50%;
+		top: -50%;
+		width: 200%;
+		height: 200%;
+		background-color: transparent;
+		background-repeat: no-repeat;
+		background-position: 0 0;
+		background-image: conic-gradient(transparent, rgba(168, 239, 255, 1), transparent 30%);
+		animation: rotate 4s linear infinite;
+	}
+	
+	&::after {
+		content: '';
+		position: absolute;
+		z-index: -1;
+		left: 6px;
+		top: 6px;
+		width: calc(100% - 12px);
+		height: calc(100% - 12px);
+		background: #001a26;
+		border-radius: 5px;
+	}
+}
+
+@keyframes opacityChange {
+	50% {
+		opacity:.5;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+      
+      </style>
   </head>
   <!-- End Head -->
 
@@ -76,11 +129,9 @@
             class="col-md-8 col-sm-12 col-xs-12 center-col text-center"
             data-uk-scrollspy="cls: uk-animation-slide-left-medium; target: > div ; delay: 50; repeat: false">
             <!-- Brand name -->
-            <!-- <h1
-              class="title-large h-color text-weight-300 sm-width-90 margin-bottom-10px sm-margin-left-right-auto sm-text-weight-300">
-              Baitul Hijab
-            </h1> -->
-            <img src="./images/logo.png" alt="Baitul Hijab" />
+            <div class="rainbow-border">
+              <img src="./images/logo.png" alt="Baitul Hijab" />
+            </div>
             <!-- Separator -->
             <div
               class="separator width-30px center-col bottom-border border-2px border-color-gray-dark margin-top-bottom-30px sm-margin-left-right-auto"></div>
@@ -114,7 +165,7 @@
             </div>
             <div class="d-flex p-1 justify-content-center">
               <a
-                href="https://youtube.com/@tahaffuzeislammedia9001?si=uufcRQeqEGGje_YX"
+                href="https://youtube.com/@BaitulHijab?si=23cCupDS-PAec_Fo"
                 class="btn btn-small border-radius-50 btn-white sm-display-table active"
                 role="button"
                 aria-pressed="true">
@@ -144,7 +195,7 @@
         </div>
         <div
           class="separator width-30px center-col bottom-border border-2px border-color-gray-dark margin-top-bottom-30px sm-margin-left-right-auto"></div>
-        <div class="row">
+        <div class="row"> 
           <div class="center-col">
             <a>Contact:</a><br />
             <a href="tel:+919390564761"
@@ -159,11 +210,11 @@
           class="separator width-30px center-col bottom-border border-2px border-color-gray-dark margin-top-bottom-30px sm-margin-left-right-auto"></div>
         <div class="row">
           <div class="center-col">
-            <a href="" class="p-2"><i class="fab fa-whatsapp"></i></a>
-            <a href="" class="p-2"><i class="fab fa-facebook"></i></a>
-            <a href="" class="p-2"><i class="fab fa-instagram"></i></a>
-            <a href="" class="p-2"><i class="fab fa-youtube"></i></a>
-            <a href="" class="p-2"><i class="fab fa-google"></i></a>
+            <a class="p-2"><i class="fab fa-whatsapp"></i></a>
+            <a class="p-2"><i class="fab fa-facebook"></i></a>
+            <a class="p-2"><i class="fab fa-instagram"></i></a>
+            <a class="p-2"><i class="fab fa-youtube"></i></a>
+            <a class="p-2"><i class="fab fa-google"></i></a>
           </div>
         </div>
         <!-- End Row -->
