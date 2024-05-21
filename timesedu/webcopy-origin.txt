@@ -1,0 +1,1084 @@
+Uri: https://cdn.jsdelivr.net/npm/toastify-js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\npm\toastify-js-1
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\npm\toastify-js\src\toastify.min.css
+Content Type: text/css
+
+Uri: https://cdn2.woxo.tech/a.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\a.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\5.15.4\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\ajax\libs\popper.js\1.12.9\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.2.1.slim.min.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\jquery-3.2.1.slim.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=B612:ital,wght@0,400;0,700;1,400;1,700&display=swap
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/b612/v12/3Jn8SDDxiSz36juyHA.ttf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\s\b612\v12\3Jn8SDDxiSz36juyHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/b612/v12/3Jn9SDDxiSz34oWXPDA.ttf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\s\b612\v12\3Jn9SDDxiSz34oWXPDA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/b612/v12/3JnySDDxiSz32jk.ttf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\s\b612\v12\3JnySDDxiSz32jk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/b612/v12/3Jn_SDDxiSz36juKoDWBSQ.ttf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\s\b612\v12\3Jn_SDDxiSz36juKoDWBSQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrIzc.ttf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjARc9.ttf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjARc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBhc9.ttf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBhc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgWxP.ttf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\s\roboto\v30\KFOkCnqEu92Fr1MmgWxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu52xP.ttf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\s\roboto\v30\KFOkCnqEu92Fr1Mu52xP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtvAw.ttf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://i.ibb.co/7JfqXxB/sunny.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\7JfqXxB\sunny.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/FxzBYR9/night.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\FxzBYR9\night.png
+Content Type: image/png
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\bootstrap\4.0.0\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://static.elfsight.com/platform/platform.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\platform\platform.js
+Content Type: application/javascript
+
+Uri: https://www.pallaviinternationalschool.com/
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\index.htm
+Content Type: text/html
+
+Uri: https://www.pallaviinternationalschool.com/admission-process.php
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\admission-process.php.html
+Content Type: text/html
+
+Uri: https://www.pallaviinternationalschool.com/assets/css/aos.css
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\css\aos.css
+Content Type: text/css
+
+Uri: https://www.pallaviinternationalschool.com/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.pallaviinternationalschool.com/assets/css/club.css
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\css\club.css
+Content Type: text/css
+
+Uri: https://www.pallaviinternationalschool.com/assets/css/dark.css
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\css\dark.css
+Content Type: text/css
+
+Uri: https://www.pallaviinternationalschool.com/assets/css/flaticon.css
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\css\flaticon.css
+Content Type: text/css
+
+Uri: https://www.pallaviinternationalschool.com/assets/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://www.pallaviinternationalschool.com/assets/css/meanmenu.css
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\css\meanmenu.css
+Content Type: text/css
+
+Uri: https://www.pallaviinternationalschool.com/assets/css/odometer.min.css
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\css\odometer.min.css
+Content Type: text/css
+
+Uri: https://www.pallaviinternationalschool.com/assets/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://www.pallaviinternationalschool.com/assets/css/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://www.pallaviinternationalschool.com/assets/css/remixicon.css
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\css\remixicon.css
+Content Type: text/css
+
+Uri: https://www.pallaviinternationalschool.com/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://www.pallaviinternationalschool.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.pallaviinternationalschool.com/assets/doc/mpd/2024/Building Safety Certificate.pdf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\doc\mpd\2024\Building Safety Certificate.pdf
+Content Type: application/pdf
+
+Uri: https://www.pallaviinternationalschool.com/assets/doc/mpd/2024/Fire Safety Documents.pdf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\doc\mpd\2024\Fire Safety Documents.pdf
+Content Type: application/pdf
+
+Uri: https://www.pallaviinternationalschool.com/assets/doc/mpd/2024/RO Water and Sanitary.pdf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\doc\mpd\2024\RO Water and Sanitary.pdf
+Content Type: application/pdf
+
+Uri: https://www.pallaviinternationalschool.com/assets/doc/mpd/DEO CERTIFICATE FOR SSECONDARY.pdf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\doc\mpd\DEO CERTIFICATE FOR SSECONDARY.pdf
+Content Type: application/pdf
+
+Uri: https://www.pallaviinternationalschool.com/assets/doc/mpd/events_calend_24_25.pdf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\doc\mpd\events_calend_24_25.pdf
+Content Type: application/pdf
+
+Uri: https://www.pallaviinternationalschool.com/assets/doc/mpd/FEE_STRUCTURE.pdf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\doc\mpd\FEE_STRUCTURE.pdf
+Content Type: application/pdf
+
+Uri: https://www.pallaviinternationalschool.com/assets/doc/mpd/noc.pdf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\doc\mpd\noc.pdf
+Content Type: application/pdf
+
+Uri: https://www.pallaviinternationalschool.com/assets/doc/mpd/PARENT TEACHER ASSOCIATION.pdf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\doc\mpd\PARENT TEACHER ASSOCIATION.pdf
+Content Type: application/pdf
+
+Uri: https://www.pallaviinternationalschool.com/assets/doc/mpd/SCHOOL MANAGING COMMITTEE.pdf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\doc\mpd\SCHOOL MANAGING COMMITTEE.pdf
+Content Type: application/pdf
+
+Uri: https://www.pallaviinternationalschool.com/assets/doc/mpd/SENIOR SECONDARY SCHOOL GRANT LETTER - Pallavi School Gandipet.pdf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\doc\mpd\SENIOR SECONDARY SCHOOL GRANT LETTER - Pallavi School Gandipet.pdf
+Content Type: application/pdf
+
+Uri: https://www.pallaviinternationalschool.com/assets/doc/mpd/SOCIETIES-TRUST.pdf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\doc\mpd\SOCIETIES-TRUST.pdf
+Content Type: application/pdf
+
+Uri: https://www.pallaviinternationalschool.com/assets/doc/mpd/VIII ETR.pdf
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\doc\mpd\VIII ETR.pdf
+Content Type: application/pdf
+
+Uri: https://www.pallaviinternationalschool.com/assets/fonts/flaticon.eot?4f7700d6618cd0ef11fa9dc7cf3a6fc7
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\fonts\flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.pallaviinternationalschool.com/assets/fonts/flaticon.svg?4f7700d6618cd0ef11fa9dc7cf3a6fc7
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\fonts\flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pallaviinternationalschool.com/assets/fonts/flaticon.ttf?4f7700d6618cd0ef11fa9dc7cf3a6fc7
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\fonts\flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.pallaviinternationalschool.com/assets/fonts/flaticon.woff2?4f7700d6618cd0ef11fa9dc7cf3a6fc7
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\fonts\flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://www.pallaviinternationalschool.com/assets/fonts/flaticon.woff?4f7700d6618cd0ef11fa9dc7cf3a6fc7
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\fonts\flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://www.pallaviinternationalschool.com/assets/fonts/remixicon.eot?t=1590207869815
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\fonts\remixicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.pallaviinternationalschool.com/assets/fonts/remixicon.svg?t=1590207869815
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\fonts\remixicon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pallaviinternationalschool.com/assets/fonts/remixicon.ttf?t=1590207869815
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\fonts\remixicon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.pallaviinternationalschool.com/assets/fonts/remixicon.woff2?t=1590207869815
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\fonts\remixicon.woff2
+Content Type: font/woff2
+
+Uri: https://www.pallaviinternationalschool.com/assets/fonts/remixicon.woff?t=1590207869815
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\fonts\remixicon.woff
+Content Type: application/font-woff
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/alwal.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\alwal.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/App Store.svg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\App Store.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/Attapur -2.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\Attapur -2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/banner/all-banner.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\banner\all-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/banner/bg-3.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\banner\bg-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/banner/bg-4.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\banner\bg-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/boduppal.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\boduppal.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/bowenpally.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\bowenpally.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/cbse/CBSE (1).webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\cbse\CBSE (1).webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/cbse/CBSE (3).webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\cbse\CBSE (3).webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/cbse/CBSE (4).webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\cbse\CBSE (4).webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/cbse/CBSE (5).webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\cbse\CBSE (5).webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/cbse/CBSE (6).webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\cbse\CBSE (6).webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/cbse/EARLY_YEARS.webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\cbse\EARLY_YEARS.webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/cbse/PRIMARY.webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\cbse\PRIMARY.webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/colabs/caie.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\colabs\caie.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/colabs/hfc.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\colabs\hfc.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/colabs/msd.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\colabs\msd.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/colabs/yama.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\colabs\yama.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/coming-soon-img.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\coming-soon-img.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/cross.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\cross.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/curriculum/cambridge-pathway.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\curriculum\cambridge-pathway.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/curriculum/cambriintro.svg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\curriculum\cambriintro.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/curriculum/resonto.svg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\curriculum\resonto.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/early-years-popup.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\early-years-popup.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/emblum.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\emblum.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/facilities/Cafetaria.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\facilities\Cafetaria.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/facilities/hygienic-premises.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\facilities\hygienic-premises.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/facilities/library.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\facilities\library.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/facilities/MksFootball.jpeg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\facilities\MksFootball.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/facilities/MKSkating.jpeg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\facilities\MKSkating.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/facilities/MSDAcademy.jpeg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\facilities\MSDAcademy.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/facilities/professionaltraining.jpeg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\facilities\professionaltraining.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/facilities/sports-main.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\facilities\sports-main.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/facilities/transport.jpeg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\facilities\transport.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/gandipet-new/caie.webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\gandipet-new\caie.webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/gandipet-new/cbse.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\gandipet-new\cbse.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/Google Play Store.svg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\Google Play Store.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/header-color.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\header-color.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/iconss/mission_logo.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\iconss\mission_logo.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/iconss/motive_logo.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\iconss\motive_logo.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/iconss/quality-policy_logo.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\iconss\quality-policy_logo.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/iconss/values_logo.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\iconss\values_logo.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/iconss/vision_logo.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\iconss\vision_logo.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/Keesara-2.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\Keesara-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/modclsimg.svg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\modclsimg.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article1.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article10.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article11.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article12.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article13.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article14.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article14.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article15.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article15.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article16.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article16.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article17.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article17.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article18.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article19.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article19.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article2.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article21.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article21.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article22.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article22.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article23.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article23.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article24.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article24.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article25.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article25.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article26.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article26.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article27.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article27.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article28.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article28.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article29.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article29.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article3.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article30.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article30.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article31.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article31.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article32.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article32.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article33.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article33.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article34.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article34.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article35.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article35.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article36.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article36.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article37.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article37.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article38.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article38.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article4.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article5.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article6.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article7.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article8.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/newsarticles/article9.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\newsarticles\article9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/pallavi_school/Fac-ball.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\pallavi_school\Fac-ball.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/pallavi_school/Fac-communication.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\pallavi_school\Fac-communication.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/pallavi_school/Fac-individual.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\pallavi_school\Fac-individual.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/pallavi_school/Fac-microscope.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\pallavi_school\Fac-microscope.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/pallavi_school/Fac-mind.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\pallavi_school\Fac-mind.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/pallavi_school/Fac-Pattern-BG.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\pallavi_school\Fac-Pattern-BG.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/pallavi_school/Fac-trophy.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\pallavi_school\Fac-trophy.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/pallavi_school/favicon.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\pallavi_school\favicon.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/pallavi_school/sitemapbg.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\pallavi_school\sitemapbg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/pallavi_school/studentsspeak1.webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\pallavi_school\studentsspeak1.webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/pallavi_school/studentsspeak10.JPG
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\pallavi_school\studentsspeak10.JPG
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/pallavi_school/studentsspeak2.webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\pallavi_school\studentsspeak2.webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/pallavi_school/studentsspeak3.webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\pallavi_school\studentsspeak3.webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/pallavi_school/studentsspeak4.webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\pallavi_school\studentsspeak4.webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/pallavi_school/studentsspeak5.webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\pallavi_school\studentsspeak5.webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/pallavi_school/studentsspeak6.webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\pallavi_school\studentsspeak6.webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/pallavi_school/studentsspeak7.webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\pallavi_school\studentsspeak7.webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/pallavi_school/studentsspeak8.webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\pallavi_school\studentsspeak8.webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/pallavi_school/studentsspeak9.webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\pallavi_school\studentsspeak9.webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/pallavi_school/Testimonials.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\pallavi_school\Testimonials.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/primary-popup.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\primary-popup.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/saroornagar.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\saroornagar.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/schoolaccolades/30.webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\schoolaccolades\30.webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/schoolaccolades/abacus.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\schoolaccolades\abacus.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/schoolaccolades/Award.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\schoolaccolades\Award.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/schoolaccolades/best-emerging-school-1.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\schoolaccolades\best-emerging-school-1.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/schoolaccolades/Brainfeed-school-excellence-awards-1.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\schoolaccolades\Brainfeed-school-excellence-awards-1.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/schoolaccolades/Guinnes-world-records.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\schoolaccolades\Guinnes-world-records.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/section-bg.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\section-bg.png
+Content Type: image/png
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/sliders/Gandipet Admissions.webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\sliders\Gandipet Admissions.webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/sliders/Gandipet Cambridge_v3.webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\sliders\Gandipet Cambridge_v3.webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/sliders/Gandipet school toppers x.webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\sliders\Gandipet school toppers x.webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/sliders/Gandipet subject toppers x.webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\sliders\Gandipet subject toppers x.webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/sliders/HTC PGOS_SLIDER.webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\sliders\HTC PGOS_SLIDER.webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/sliders/ncc.webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\sliders\ncc.webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/sliders/PIS-ADMISSIONS-2024-25.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\sliders\PIS-ADMISSIONS-2024-25.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/sliders/pis_gandipet.webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\sliders\pis_gandipet.webp
+Content Type: image/webp
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/sports/basket_ball.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\sports\basket_ball.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/sports/cricket.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\sports\cricket.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/sports/skating.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\sports\skating.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/sports/SWIMMING.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\sports\SWIMMING.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/sports/takewondo.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\sports\takewondo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/team/chairman.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\team\chairman.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/team/Ms.-Pallavi.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\team\Ms.-Pallavi.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/team/principal.JPG
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\team\principal.JPG
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/team/sudha.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\team\sudha.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/team/syed_ainuddin.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\team\syed_ainuddin.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/team/yasasvi.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\team\yasasvi.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/team/zehra_subuhi_arif.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\team\zehra_subuhi_arif.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/team/zohair_aminuddin.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\team\zohair_aminuddin.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/Tivoli -3.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\Tivoli -3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/images/Video-thumbnail.jpg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\Video-thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pallaviinternationalschool.com/assets/js/ajaxchimp.min.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\js\ajaxchimp.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.pallaviinternationalschool.com/assets/js/aos.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\js\aos.js
+Content Type: application/x-javascript
+
+Uri: https://www.pallaviinternationalschool.com/assets/js/appear.min.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\js\appear.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.pallaviinternationalschool.com/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\js\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.pallaviinternationalschool.com/assets/js/contact-form-script.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\js\contact-form-script.js
+Content Type: application/x-javascript
+
+Uri: https://www.pallaviinternationalschool.com/assets/js/custom.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\js\custom.js
+Content Type: application/x-javascript
+
+Uri: https://www.pallaviinternationalschool.com/assets/js/czm-social-chat-support.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\js\czm-social-chat-support.js
+Content Type: application/x-javascript
+
+Uri: https://www.pallaviinternationalschool.com/assets/js/form-validator.min.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\js\form-validator.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.pallaviinternationalschool.com/assets/js/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\js\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.pallaviinternationalschool.com/assets/js/jquery-validate.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\js\jquery-validate.js
+Content Type: application/x-javascript
+
+Uri: https://www.pallaviinternationalschool.com/assets/js/jquery.magnific-popup.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\js\jquery.magnific-popup.js
+Content Type: application/x-javascript
+
+Uri: https://www.pallaviinternationalschool.com/assets/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\js\jquery.magnific-popup.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.pallaviinternationalschool.com/assets/js/jquery.meanmenu.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\js\jquery.meanmenu.js
+Content Type: application/x-javascript
+
+Uri: https://www.pallaviinternationalschool.com/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\js\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.pallaviinternationalschool.com/assets/js/odometer.min.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\js\odometer.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.pallaviinternationalschool.com/assets/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\js\owl.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.pallaviinternationalschool.com/assets/libs/jquery/dist/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\libs\jquery\dist\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.pallaviinternationalschool.com/assets/plugin/components/moment/moment-timezone-with-data.min.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\plugin\components\moment\moment-timezone-with-data.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.pallaviinternationalschool.com/assets/plugin/components/moment/moment.min.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\plugin\components\moment\moment.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.pallaviinternationalschool.com/assets/plugin/czm-chat-support.min.js
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\plugin\czm-chat-support.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.pallaviinternationalschool.com/awards.php
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\awards.php.html
+Content Type: text/html
+
+Uri: https://www.pallaviinternationalschool.com/blogs.php
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\blogs.php.html
+Content Type: text/html
+
+Uri: https://www.pallaviinternationalschool.com/cambridge.php
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\cambridge.php.html
+Content Type: text/html
+
+Uri: https://www.pallaviinternationalschool.com/careers.php
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\careers.php.html
+Content Type: text/html
+
+Uri: https://www.pallaviinternationalschool.com/cbse.php
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\cbse.php.html
+Content Type: text/html
+
+Uri: https://www.pallaviinternationalschool.com/clubs.php
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\clubs.php.html
+Content Type: text/html
+
+Uri: https://www.pallaviinternationalschool.com/contact-us.php
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\contact-us.php.html
+Content Type: text/html
+
+Uri: https://www.pallaviinternationalschool.com/earlyyear.php
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\earlyyear.php.html
+Content Type: text/html
+
+Uri: https://www.pallaviinternationalschool.com/facilities.php
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\facilities.php.html
+Content Type: text/html
+
+Uri: https://www.pallaviinternationalschool.com/gallery.php
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\gallery.php.html
+Content Type: text/html
+
+Uri: https://www.pallaviinternationalschool.com/index.php
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\index.php.html
+Content Type: text/html
+
+Uri: https://www.pallaviinternationalschool.com/leadership.php
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\leadership.php.html
+Content Type: text/html
+
+Uri: https://www.pallaviinternationalschool.com/mandatory-public-disclosure.php
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\mandatory-public-disclosure.php.html
+Content Type: text/html
+
+Uri: https://www.pallaviinternationalschool.com/middleyear.php
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\middleyear.php.html
+Content Type: text/html
+
+Uri: https://www.pallaviinternationalschool.com/mission-vision.php
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\mission-vision.php.html
+Content Type: text/html
+
+Uri: https://www.pallaviinternationalschool.com/primaryyear.php
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\primaryyear.php.html
+Content Type: text/html
+
+Uri: https://www.pallaviinternationalschool.com/privacy_policy.php
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\privacy_policy.php.html
+Content Type: text/html
+
+Uri: https://www.pallaviinternationalschool.com/seniorsecondary.php
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\seniorsecondary.php.html
+Content Type: text/html
+
+Uri: https://www.pallaviinternationalschool.com/senioryear.php
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\senioryear.php.html
+Content Type: text/html
+
+Uri: https://www.pallaviinternationalschool.com/sitemap.xml
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\sitemap.xml
+Content Type: application/xml
+
+Uri: https://www.pallaviinternationalschool.com/sports.php
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\sports.php.html
+Content Type: text/html
+
+Uri: https://www.pallaviinternationalschool.com/tc.php
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\tc.php.html
+Content Type: text/html
+
+Uri: https://www.piskeesara.com/wp-content/uploads/2020/12/chevron2x-right-orange-1-2.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\wp-content\uploads\2020\12\chevron2x-right-orange-1-2.png
+Content Type: image/png
+
+Uri: https://www.pmsboduppal.com/assets/images/Green-Board.webp
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\Green-Board.webp
+Content Type: image/webp
+
+Uri: https://www.pmsboduppal.com/assets/images/plus.png
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\plus.png
+Content Type: image/png
+
+Uri: https://www.pmsboduppal.com/assets/images/tests.svg
+File Name: C:\Downloaded Web Sites\www.pallaviinternationalschool.com\assets\images\tests.svg
+Content Type: image/svg+xml
+
