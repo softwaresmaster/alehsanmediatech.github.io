@@ -2770,16 +2770,13 @@ About Area Style
 Counter Area Style
 ======================================================*/
 .counter-bg {
-  background-image: url(../images/pallavi_school/Fac-Pattern-BG.png);
+  background-image: url(../images/tgoi_icons/Fac-Pattern-BG.png);
   box-shadow: inset 0 0 0 2000px rgb(0, 0, 0, 0.3);
   background-size: 100% 100%;
   background-position: center center;
   padding-left: 100px;
   padding-right: 100px;
   border-radius: 40px 40px 10px 10px;
-  /* display: flex;
-  align-items: center; */
-  /* height: 400px; */
 }
 
 .counter-card {
@@ -6001,7 +5998,7 @@ Page Header Area Style
   box-shadow: inset 0 0 0 2000px rgb(255, 255, 255, 0.3);
 }
 .page-banner.bg-academic {
-  /* background-image: url(../images/pallavi_school/Academics_slider.jpg); */
+  /* background-image: url(../images/tgoi_icons/Academics_slider.jpg); */
   background-image: url(../images/banner/all-banner.jpg);
   /* box-shadow: inset 0 0 0 1000px rgba(0,0,0,.2); */
   box-shadow: inset 0 0 0 2000px rgb(255, 255, 255, 0.3);
@@ -6970,7 +6967,7 @@ input#popup-submit {
 
 .testimonials-sec {
   min-height: 400px;
-  background: transparent url("../images/pallavi_school/Testimonials.jpg") 0% 0%
+  background: transparent url("../images/tgoi_icons/Testimonials.jpg") 0% 0%
     repeat padding-box;
   opacity: 1;
 }
@@ -7552,7 +7549,7 @@ i.fa.fa-angle-double-right {
   font-weight: 500;
 }
 .page-banner.bg-sitemap {
-  background-image: url(../images/pallavi_school/sitemapbg.jpg);
+  background-image: url(../images/tgoi_icons/sitemapbg.jpg);
   box-shadow: inset 0 0 0 2000px rgb(255, 255, 255, 0.3);
 }
 

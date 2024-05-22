@@ -205,5 +205,4 @@ function sendMailJS() {
     " , Message: " +
     message;
   window.open("mailto:" + to + " ?subject=" + subject + "&body=" + body);
-  // window.open("mailto:email@address.com?subject=test&body=type%20your%0D%0Amessage%20here");
 }
