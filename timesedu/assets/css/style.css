@@ -7372,6 +7372,9 @@ section.courses.section-bg.section {
 }
 .branch-head-social {
   display: flex;
+  text-align: center;
+  justify-items: center;
+  justify-content: center;
 }
 .courses .single-course h4 {
   font-size: 15px;
