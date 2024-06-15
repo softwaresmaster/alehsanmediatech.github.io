@@ -190,7 +190,7 @@ $(window).on("orientationchange", function (event) {
 
 function sendMailJS() {
   var to = "contact@alehsanmt.com";
-  var subject = "HIRE";
+  var subject = "New Admission";
   var firstName = $("input[name=fname]").val();
   var lastName = $("input[name=lname]").val();
   var phone = $("input[name=phone]").val();
