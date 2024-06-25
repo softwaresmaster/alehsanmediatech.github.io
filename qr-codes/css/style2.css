@@ -26,7 +26,7 @@
   -o-transition-duration: 0.4s;
 }
 .h-color {
-  color: #00202f;
+  color: #000000dd;
 }
 .hb-color {
   background-color: #4f2121;
@@ -1131,6 +1131,15 @@ h6 {
   -webkit-text-fill-color: transparent;
   font: {
     size: 25vw;
+    family: $font;
+  }
+}
+.text-gradient-yellow {
+  background: linear-gradient(to right, #ffc500 50%, #fffd75 10%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font: {
+    size: 18vw;
     family: $font;
   }
 }
