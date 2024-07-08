@@ -25,6 +25,7 @@
   -webkit-transition-duration: 0.4s;
   -o-transition-duration: 0.4s;
 }
+
 ::selection {
   color: #777;
   background: 0 0;
@@ -5864,4 +5865,28 @@ blockquote p {
 .border-top-1px {
   border-top: 1rem;
   color: white !important;
+}
+
+.images {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+#image {
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: opacity 0.3s ease;
+}
+
+.overlay-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: none;
 }
